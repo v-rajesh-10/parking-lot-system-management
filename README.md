@@ -67,6 +67,10 @@ Not found
 The shell script parking_lot.sh automates the build and run process. 
 Execute this script to build and run the application from the cloned location.
 
+Note : MAC / Linux users - You might need to execute 'chmod +x *' 
+from the parking-lot-system-management folder in case of any permission issues for running
+the script (./parking_lot.sh).
+
 ## Build
 ```
 ./parking_lot.sh build
